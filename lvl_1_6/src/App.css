@@ -1,0 +1,14 @@
+.App {
+  margin: 50px;
+  width: 80vw;
+  background-color: gray;
+  padding: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  margin-top: 30px;
+}
