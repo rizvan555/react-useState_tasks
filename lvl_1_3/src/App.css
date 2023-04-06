@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 30vw;
+  border: 10px solid gray;
+  background-color: black;
+  padding: 10px;
+  margin: 200px;
+}
